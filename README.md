@@ -1,11 +1,11 @@
 # Minor_Project
-CROP ANALYSIS IN ANDHRA PRADESH 
+# CROP ANALYSIS IN ANDHRA PRADESH 
 
 Team Members: Bhavya Gupta, Nishtha Kohli, Vanshika Kathuria, Yash Thakran
 
 India's agricultural sector encounters major challenges in optimizing crop selection and predicting yields, essential for ensuring food security and economic stability. This project tackles these issues by applying machine learning algorithms—namely linear regression and random forest—to recommend appropriate crops and predict their yields. Furthermore, Power BI is used for data visualization, which enhances the clarity of the results and provides actionable insights for stakeholders in the agricultural sector.
 
-Methods and Procedures:
+# Methods and Procedures:
 
 1. Data Collection:
 The project starts with the extensive collection of agricultural data, including factors such as soil type, climate, historical crop yields, and other relevant parameters. Sources for this data include government records, agricultural websites, and various other resources. The dataset is meticulously curated to ensure it is both representative and reliable.
