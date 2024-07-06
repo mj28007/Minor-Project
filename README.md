@@ -25,7 +25,7 @@ Power BI is used to develop interactive and insightful visualizations that allow
 6. Summary of Findings:
 The use of linear regression and random forest algorithms produces promising outcomes for crop recommendation and yield prediction. These models demonstrate significant accuracy, with the random forest model proving more effective than linear regression in managing the complexities of agricultural data. The visualizations created with Power BI provide a clear depiction of the factors affecting crop selection and yield, equipping farmers and policymakers with valuable, actionable insights.
 
-"In summary, this study introduces a holistic method for crop analysis in Andhra Pradesh, utilizing machine learning methods and data visualization tools. By combining linear regression, random forest, and Power BI, the project establishes a robust framework for informed decision-making in crop planning and resource allocation. The insights gained contribute to the progress of precision agriculture, fostering improved productivity and sustainability in the region."
+"In conclusion, this study introduces a holistic method for crop analysis in Andhra Pradesh, utilizing machine learning methods and data visualization tools. By combining linear regression, random forest, and Power BI, the project establishes a robust framework for informed decision-making in crop planning and resource allocation. The insights gained contribute to the progress of precision agriculture, fostering improved productivity and sustainability in the region."
 
 
 
